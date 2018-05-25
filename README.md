@@ -3,6 +3,7 @@
 
 ##### usage: #####
 `$sort = new Multisort($field, $type);`
+
 `$sorted = $sort->mergeSort($array);`
 
 where 
