@@ -1,3 +1,21 @@
 {
-    "name" : "d125v17/multisort"
+    "name" : "d125v17/multisort",
+    "type": "library",
+    "license": "MIT",
+    "description": "Sort flat arrays / arrays of associative arrays, arrays of objects",
+    "keywords": ["multisort", "multidimensional", "array"],
+    "homepage": "https://github.com/d125v17/multisort",
+    "support": {
+      "source": "https://github.com/d125v17/multisort"
+    },
+    "authors": [
+      {
+        "name": "Vladimir Diamandi",
+        "email": "dvn125@gmail.com",
+        "role": "Developer"
+      }
+    ],
+    "require": {
+      "php": ">=5.6.0"
+    }
 }
