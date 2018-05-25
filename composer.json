@@ -1,6 +1,7 @@
 {
     "name" : "d125v17/multisort",
     "type": "library",
+    "version" : "1.0.0",
     "license": "MIT",
     "description": "Sort flat arrays / arrays of associative arrays, arrays of objects",
     "keywords": ["multisort", "multidimensional", "array"],
